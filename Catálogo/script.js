@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
     const produtos = [
         { nome: "V250 Dourado", descricao: "", imagem: "imagens/250_dourado.png", preco: "R$ 135,00" },
-        { nome: "V250 Black", descricao: "", imagem: "imagens/v250_black.png", preco: "R$35,00" },
+        { nome: "V250 Black", descricao: "", imagem: "imagens/v250_black.png", preco: "R$135,00" },
         { nome: "V80", descricao: "", imagem: "imagens/V80.png", preco: "R$ 100,00" },
         { nome: "V150", descricao: "", imagem: "imagens/v150.png", preco: "R$ 120,00" },
     ];
